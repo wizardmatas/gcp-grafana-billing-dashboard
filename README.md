@@ -25,10 +25,10 @@ Dasboard is very basic, and it will improve over time. Star the repo to get new 
 ### Feedback
 
 Please leave your feedback in the
-[issue tracker](https://github.com/wizardmatas/dockerhubinvite/issues)!
+[issue tracker](https://github.com/wizardmatas/googlecloud-grafana-costandusage-dashboard/issues)!
 I'd love to know how you're using this tool and what features you'd like to see
 us add.
 
 ### Code
 If you spot a bug or see a typo, please feel free to fix it by putting up a
-[pull request](https://github.com/wizardmatas/dockerhubinvite/pulls)!
+[pull request](https://github.com/wizardmatas/googlecloud-grafana-costandusage-dashboard/pulls)!
