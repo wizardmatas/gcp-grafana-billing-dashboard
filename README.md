@@ -1,13 +1,13 @@
 # Google Cloud Cost and Usage Grafana Dashboard
 
-## Dashboard
+## Dashboard GCP
 This repo provides Grafana dashboard code which helps to visualize Google Cloud Cost and Usage report.
 
 ![Dashboard](dashboard2.png)
 
 ## Prerequisites
 
-To run this dasboard to you need to:
+To run this dashboard you will need:
 1. Export Google Cloud Cost and Usage to BigQuery ([how-to](https://cloud.google.com/billing/docs/how-to/export-data-bigquery))
 2. Install BigQuery plugin to your Grafana setup ([hwo-to](https://grafana.com/grafana/plugins/doitintl-bigquery-datasource/))
 3. Import dashboard [GCP_Cost_and_Usage_v2.json](GCP_Cost_and_Usage_v2.json). You will need to provide project, table and dataset IDs, from the first step.
