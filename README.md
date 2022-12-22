@@ -13,6 +13,9 @@ To run this dasboard to you need to:
 3. Import dashboard [GCP_Cost_and_Usage_v2.json](GCP_Cost_and_Usage_v2.json). You will need to provide project, table and dataset IDs, from the first step.
 
 
+## Alternatives/extra
+[Looker](https://cloud.google.com/billing/docs/how-to/visualize-data) dasboard with analytical capabilties.
+
 ## Support
 Dashboard is build as personal project, support is best effort support.
 
