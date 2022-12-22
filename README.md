@@ -3,7 +3,7 @@
 ## Dashboard
 This repo provides Grafana dashboard code which helps to visualize Google Cloud Cost and Usage report.
 
-![Dashboard](/images//dashboard2.png)
+![Dashboard](dashboard2.png)
 
 ## Prerequisites
 
