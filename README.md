@@ -20,7 +20,7 @@ To run this dashboard you will need:
 Dashboard is build as personal project, support is best effort support.
 
 ### Updates
-Dasboard is very basic, and it will improve over time. Star the repo to get new updates.
+Dashboard is very basic, and it will improve over time. Star the repo to get new updates.
 
 ### Feedback
 
